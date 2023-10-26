@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class WalletTest {
-	//intro
+	//me makeing a change
 	Wallet myWallet = new Wallet("my trip");
 
 	@Before
